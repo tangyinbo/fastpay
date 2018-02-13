@@ -35,7 +35,7 @@ Fastpay的目标是打造一款开源的、轻量级的、微服务化的、可�
 
 ## 总体架构
 
-![](doc/fastpay-arch.png)
+![](doc/images/fastpay-arch.png)
 
 ## 分支管理
 
@@ -75,7 +75,7 @@ Fastpay的目标是打造一款开源的、轻量级的、微服务化的、可�
 
 加入项目请关注云时代架构公众号，后台回复"+fastpay"，然后，提供微信、github账户号等。
 
-![](云时代架构公众号.jpg)
+![](doc/images/云时代架构公众号.jpg)
 
 
  
