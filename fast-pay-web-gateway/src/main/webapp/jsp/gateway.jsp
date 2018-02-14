@@ -19,7 +19,7 @@
 <div class="wrap_header">
     <div class="header clearfix">
         <div class="logo_panel clearfix">
-            <div class="logo fl"><img src="${path}pay_files/logo.png" alt=""></div>
+            <div class="logo fl"><img src="${path}pay_files/logo.png"   width="150px" height="50px"    alt=""></div>
             <div class="lg_txt">| 收银台</div>
         </div>
         <div class="fr tip_panel">
