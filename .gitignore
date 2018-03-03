@@ -6,6 +6,8 @@
 .classpath
 *.class
 *.tmp
+.externalToolBuilders/
+maven-eclipse.xml
 /tomcat.10025
 
 # Package Files #
